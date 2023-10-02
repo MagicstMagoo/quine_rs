@@ -4,4 +4,4 @@ Run this command in terminal or bash.
 ```shell
 $ cargo run
 ```
-For detailed explanation please visit [https://io.magicst.cn/rust/quine-from-rust/](https://io.magicst.cn/rust/self-replicating-program/)https://io.magicst.cn/rust/self-replicating-program/
+For detailed explanation please visit https://io.magicst.cn/rust/self-replicating-program/
